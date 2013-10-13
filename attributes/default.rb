@@ -26,8 +26,8 @@ end
 
 default['nodejs']['version'] = '0.10.20'
 #default['nodejs']['checksum'] = '87345ab3b96aa02c5250d7b5ae1d80e620e8ae2a7f509f7fa18c4aaa340953e8'
-default['nodejs']['checksum_linux_x64'] = 'b7c0a79acddfaeda8af221acdd18640ef5c62e8a'
-default['nodejs']['checksum_linux_x86'] = '709cd1a646447036abe3f57ea6e33bb1d411c229'
+default['nodejs']['checksum_linux_x64'] = 'eaebfc66d031f3b5071b72c84dd74f326a9a3c018e14d5de7d107c4f3a36dc96'
+default['nodejs']['checksum_linux_x86'] = '4dc94e7de766523f6427b9de75dd3e4f1d3d15d01464e03d98f9c96e09769746'
 default['nodejs']['dir'] = '/usr/local'
 #default['nodejs']['npm'] = '1.3.5'
 default['nodejs']['src_url'] = "http://nodejs.org/dist"
